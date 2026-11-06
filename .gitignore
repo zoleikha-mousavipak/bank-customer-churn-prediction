@@ -1,0 +1,4 @@
+__pycache__/
+.DS_Store
+zcommands.txt
+Customer-Churn-Records.csv
