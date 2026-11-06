@@ -118,6 +118,7 @@ python3 train_model.py
 
 - `app.py` – Streamlit application
 - `train_model.py` – Model training and evaluation
+- `notebooks/bank_customer_churn_analysis.ipynb` – Jupyter Notebook for data analysis and model documentation
 - `random_forest_model.pkl` – Saved trained model
 - `requirements.txt` – Project dependencies
 - `README.md` – Project documentation
